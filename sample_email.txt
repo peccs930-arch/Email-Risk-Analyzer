@@ -1,0 +1,11 @@
+Dear Customer,
+
+Your account has been selected for a prize.
+
+Please click the link below immediately to verify your account.
+
+https://fake-bank-login.com
+
+Failure to verify your password today may suspend your account.
+
+Thank you.
